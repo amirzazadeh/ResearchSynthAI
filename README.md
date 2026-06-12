@@ -10,10 +10,10 @@ The goal is to help researchers move faster while improving transparency and rig
 
 ## Slides and Materials
 
-**English Slides**: [Link](https://ucsf.box.com/s/6edoz2lv52y8apq92vuwpm6dus0jeav7)
-**Vietnamese Slides**: [Link](https://ucsf.box.com/s/bjt28zfjk4v9wgd77q1ygqk5i954q9vi)
-**AI Prompt**: Quick Evidence Search: [Link](https://ucsf.box.com/s/hhdifu3ev0u0wjw3mbajm1xspyny5k2u)
-**AI Prompt**: Develop Search Strategy: [Link](https://ucsf.box.com/s/518ejxcqy2bmmp4bhtms5r158nbhs427)
+- **English Slides**: [Link](https://ucsf.box.com/s/6edoz2lv52y8apq92vuwpm6dus0jeav7)
+- **Vietnamese Slides**: [Link](https://ucsf.box.com/s/bjt28zfjk4v9wgd77q1ygqk5i954q9vi)
+- **AI Prompt**: Quick Evidence Search: [Link](https://ucsf.box.com/s/hhdifu3ev0u0wjw3mbajm1xspyny5k2u)
+- **AI Prompt**: Develop Search Strategy: [Link](https://ucsf.box.com/s/518ejxcqy2bmmp4bhtms5r158nbhs427)
 
 ## Recording
 Recorded Video: Will be added after the presentation.
