@@ -1,7 +1,3 @@
-# ResearchSynthAI
-
-How to use AI to run better literature searches, build systematic search strategies, synthesize evidence, and map citations around a topic.
-
 ## Topic
 
 This talk focuses on practical AI methods for evidence discovery and synthesis.
