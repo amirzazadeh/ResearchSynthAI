@@ -12,7 +12,7 @@ The goal is to help researchers move faster while improving transparency and rig
 - **AI Prompt**: Develop Search Strategy: [Link](https://ucsf.box.com/s/518ejxcqy2bmmp4bhtms5r158nbhs427)
 
 ## Recording
-Recorded Video: Will be added after the presentation.
+Recorded Video: [Link](https://ucsf.box.com/s/vq71h6h4f9tpqurad8qcdyg0yawj1bkd)
 
 ## Objectives
 
